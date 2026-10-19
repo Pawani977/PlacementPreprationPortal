@@ -1,0 +1,2 @@
+# PlacementPreprationPortal
+A frontend-based Placement Preparation Portal developed using React.js, JavaScript, HTML, and CSS. It features a login page, an interactive dashboard, and preparation modules to help students organize their campus placement preparation. Backend integration is planned for future development.
